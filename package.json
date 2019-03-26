@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "cesar-portfolio",
+  "description": "Cesar's potfolio",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Cesar Napoleon Mejia Leiva <cmejia@gmail.com>",
   "dependencies": {
     "gatsby": "^2.2.13",
     "gatsby-image": "^2.0.34",
